@@ -2,7 +2,7 @@
 
 
 
-Live Demo: [Real Time Chat App (click here) ](https://chatapp.holetex.com](https://real-time-chat-app-sandy.vercel.app/))
+Live Demo: [https://real-time-chat-app-sandy.vercel.app/ ](https://real-time-chat-app-sandy.vercel.app/)
 
 # Getting Started with Create React App
 
